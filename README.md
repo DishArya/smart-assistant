@@ -56,4 +56,5 @@ cd smart-assistant
 pip install -r requirements.txt
 streamlit run app.py
 ```
-https://github.com/user-attachments/assets/ed741b2c-bd38-44a2-8f29-bb7819544080
+### 📽️ Demo (Loom)
+[![Loom Demo](https://img.shields.io/badge/Click%20to%20watch-Loom%20Video-blue?logo=loom)](https://www.loom.com/share/df4230bf9bdc4d1291d8bed54bc19b3c?sid=7fac9526-b2cb-4afa-8ef0-cfe1a3ec9ea2)
