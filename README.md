@@ -55,3 +55,5 @@ git clone https://github.com/yourusername/smart-assistant.git
 cd smart-assistant
 pip install -r requirements.txt
 streamlit run app.py
+```
+https://github.com/user-attachments/assets/ed741b2c-bd38-44a2-8f29-bb7819544080
