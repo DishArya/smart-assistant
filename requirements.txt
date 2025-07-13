@@ -1,0 +1,9 @@
+
+streamlit
+transformers
+sentence-transformers
+torch
+nltk
+spacy
+pdfplumber
+scikit-learn
