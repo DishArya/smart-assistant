@@ -48,3 +48,10 @@ An intelligent, document-aware GenAI assistant that can understand and reason ov
 │ ├── qa_engine.py # Question answering logic
 │ ├── question_generator.py # Logic question generation & evaluation
 │ └── summarizer.py # Document summarization logic'''
+
+## 🔧 Setup
+```bash
+git clone https://github.com/yourusername/smart-assistant.git
+cd smart-assistant
+pip install -r requirements.txt
+streamlit run app.py
